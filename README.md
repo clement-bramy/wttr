@@ -27,6 +27,7 @@ A tiny Rust CLI that generates a **Waybar-friendly JSON output** for the current
   "text": "⛅ 25°C",
   "tooltip": "<b>Partly cloudy 25°C</b>\nWind: 10km/h\nHumidity: 78%\n\n<b>Today, 2026-04-07</b>\n⬆️ 23°C ⬇️ 30°C\n🌅 06:10\n🌇 18:25\n  08:00 ⛅ 23°C\n..."
 }
+```
 
 ## Example waybar
 
