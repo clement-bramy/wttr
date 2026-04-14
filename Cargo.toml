@@ -6,9 +6,13 @@ license = "MIT"
 authors = ["Clement Bramy <clement.bramy@gmail.com>"]
 
 [dependencies]
+anyhow = "1.0.102"
+directories = "6.0.0"
 phf = { version = "0.13.1", features = ["macros"] }
 serde = { version = "1.0.228", features = ["derive"] }
 serde_json = "1.0.149"
+serde_with = "3.18.0"
+toml = "1.1.2"
 ureq = { version = "3.3.0", features = ["json"] }
 
 [profile.release]
